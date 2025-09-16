@@ -1,0 +1,3 @@
+Ce fichier est inutile et doit être supprimé dans le cadre du TP !
+
+Il sert uniquement d'exercice pour apprendre la commande git rm.

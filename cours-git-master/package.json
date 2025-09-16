@@ -1,0 +1,17 @@
+{
+  "name": "tp-git-emoji-converter",
+  "version": "1.0.0",
+  "description": "TP d'apprentissage de Git avec un convertisseur de texte vers emoji",
+  "main": "code/main.js",
+  "scripts": {
+    "start": "node code/main.js",
+    "test": "node code/test.js",
+    "convert": "node code/main.js",
+    "demo": "node code/test.js"
+  },
+  "keywords": ["git", "javascript", "emoji", "converter", "tp", "formation"],
+  "author": "Baptiste VASSEUR",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
